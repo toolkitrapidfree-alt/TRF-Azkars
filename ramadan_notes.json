@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "category": "ramadan-notes",
+    "title": {
+      "ar": "نية اليوم",
+      "fr": "Intention du jour",
+      "en": "Daily Intention"
+    },
+    "intention": {
+      "ar": "اللهم اجعل صيامي خالصًا لوجهك.",
+      "fr": "Ô Allah, rends mon jeûne sincère pour Toi.",
+      "en": "O Allah, make my fasting sincere for You."
+    },
+    "deed": {
+      "ar": "تصدق بشيء ولو قليل.",
+      "fr": "Fais une petite aumône aujourd’hui.",
+      "en": "Give a small charity today."
+    },
+    "dua": {
+      "ar": "اللهم بارك لي فيما رزقتني.",
+      "fr": "Ô Allah bénis ce que Tu m’as donné.",
+      "en": "O Allah bless what You gave me."
+    },
+    "reminder": {
+      "ar": "أفضل الصيام ما كان مع حسن الخلق.",
+      "fr": "Le meilleur jeûne est celui accompagné de bon comportement.",
+      "en": "The best fasting is with good character."
+    }
+  }
+]
