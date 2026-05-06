@@ -1,0 +1,451 @@
+{
+  "source_group_count": 132,
+  "source_flat_item_count": 267,
+  "trf_item_count": 312,
+  "matched_audio_count": 54,
+  "unmatched_audio_count": 258,
+  "matched_by_category": {
+    "ablution": 2,
+    "adhan": 5,
+    "evening": 8,
+    "food": 3,
+    "morning": 20,
+    "mosque": 3,
+    "sleep": 10,
+    "waking-up": 3
+  },
+  "missing_by_category": {
+    "adhan": 4,
+    "after-prayer": 11,
+    "comprehensive-supplications": 34,
+    "evening": 22,
+    "food": 2,
+    "hajj-and-umrah": 2,
+    "home": 2,
+    "morning": 11,
+    "prayer": 11,
+    "prophetic-supplications": 29,
+    "prophets-supplications": 13,
+    "quran-completion": 1,
+    "quranic-supplications": 26,
+    "ruqya": 3,
+    "sleep": 5,
+    "supplications-for-deceased": 4,
+    "tasbih": 17,
+    "toilet": 2,
+    "various-adhkar": 42,
+    "virtue-of-chapters": 12,
+    "virtue-of-quran": 3,
+    "virtue-of-remembrance": 1,
+    "virtue-of-supplication": 1
+  },
+  "notes": [
+    "The source audio collection often combines multiple adhkar into one MP3.",
+    "This report only links curated one-to-one matches to keep playback precise.",
+    "Split items such as grouped surahs are intentionally left without audio until a better source is available."
+  ],
+  "matched_examples": [
+    {
+      "slug": "morning-001",
+      "category": "morning",
+      "source_filename": "75"
+    },
+    {
+      "slug": "morning-005",
+      "category": "morning",
+      "source_filename": "77"
+    },
+    {
+      "slug": "morning-006",
+      "category": "morning",
+      "source_filename": "79"
+    },
+    {
+      "slug": "morning-007",
+      "category": "morning",
+      "source_filename": "87"
+    },
+    {
+      "slug": "morning-008",
+      "category": "morning",
+      "source_filename": "80"
+    },
+    {
+      "slug": "morning-009",
+      "category": "morning",
+      "source_filename": "81"
+    },
+    {
+      "slug": "morning-010",
+      "category": "morning",
+      "source_filename": "83"
+    },
+    {
+      "slug": "morning-011",
+      "category": "morning",
+      "source_filename": "86"
+    },
+    {
+      "slug": "morning-013",
+      "category": "morning",
+      "source_filename": "90"
+    },
+    {
+      "slug": "morning-014",
+      "category": "morning",
+      "source_filename": "94"
+    },
+    {
+      "slug": "morning-017",
+      "category": "morning",
+      "source_filename": "84"
+    },
+    {
+      "slug": "morning-018",
+      "category": "morning",
+      "source_filename": "88"
+    },
+    {
+      "slug": "morning-019",
+      "category": "morning",
+      "source_filename": "89"
+    },
+    {
+      "slug": "morning-020",
+      "category": "morning",
+      "source_filename": "85"
+    },
+    {
+      "slug": "morning-022",
+      "category": "morning",
+      "source_filename": "98"
+    },
+    {
+      "slug": "morning-024",
+      "category": "morning",
+      "source_filename": "121"
+    },
+    {
+      "slug": "morning-027",
+      "category": "morning",
+      "source_filename": "95"
+    },
+    {
+      "slug": "morning-029",
+      "category": "morning",
+      "source_filename": "93"
+    },
+    {
+      "slug": "morning-030",
+      "category": "morning",
+      "source_filename": "91"
+    },
+    {
+      "slug": "morning-031",
+      "category": "morning",
+      "source_filename": "96"
+    },
+    {
+      "slug": "evening-001",
+      "category": "evening",
+      "source_filename": "75"
+    },
+    {
+      "slug": "evening-002",
+      "category": "evening",
+      "source_filename": "101"
+    },
+    {
+      "slug": "evening-021",
+      "category": "evening",
+      "source_filename": "85"
+    },
+    {
+      "slug": "evening-022",
+      "category": "evening",
+      "source_filename": "97"
+    },
+    {
+      "slug": "evening-023",
+      "category": "evening",
+      "source_filename": "98"
+    },
+    {
+      "slug": "evening-025",
+      "category": "evening",
+      "source_filename": "121"
+    },
+    {
+      "slug": "evening-026",
+      "category": "evening",
+      "source_filename": "250"
+    },
+    {
+      "slug": "evening-030",
+      "category": "evening",
+      "source_filename": "91"
+    },
+    {
+      "slug": "sleep-001",
+      "category": "sleep",
+      "source_filename": "102"
+    },
+    {
+      "slug": "sleep-002",
+      "category": "sleep",
+      "source_filename": "103"
+    },
+    {
+      "slug": "sleep-003",
+      "category": "sleep",
+      "source_filename": "104"
+    },
+    {
+      "slug": "sleep-004",
+      "category": "sleep",
+      "source_filename": "105"
+    },
+    {
+      "slug": "sleep-005",
+      "category": "sleep",
+      "source_filename": "108"
+    },
+    {
+      "slug": "sleep-006",
+      "category": "sleep",
+      "source_filename": "109"
+    },
+    {
+      "slug": "sleep-007",
+      "category": "sleep",
+      "source_filename": "111"
+    },
+    {
+      "slug": "sleep-011",
+      "category": "sleep",
+      "source_filename": "99"
+    },
+    {
+      "slug": "sleep-012",
+      "category": "sleep",
+      "source_filename": "101"
+    },
+    {
+      "slug": "sleep-013",
+      "category": "sleep",
+      "source_filename": "100"
+    },
+    {
+      "slug": "waking-up-001",
+      "category": "waking-up",
+      "source_filename": "1"
+    },
+    {
+      "slug": "waking-up-002",
+      "category": "waking-up",
+      "source_filename": "3"
+    }
+  ],
+  "missing_examples": [
+    {
+      "slug": "morning-002",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-003",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-004",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-012",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-015",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-016",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-021",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-023",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-025",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-026",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "morning-028",
+      "category": "morning",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-003",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-004",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-005",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-006",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-007",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-008",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-009",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-010",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-011",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-012",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-013",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-014",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-015",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-016",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-017",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-018",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-019",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-020",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-024",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-027",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-028",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "evening-029",
+      "category": "evening",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-001",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-002",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-003",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-004",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-005",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-006",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    },
+    {
+      "slug": "after-prayer-007",
+      "category": "after-prayer",
+      "reason": "no curated one-to-one source audio yet"
+    }
+  ]
+}
